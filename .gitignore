@@ -1,0 +1,33 @@
+# Python Caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments and Virtual Envs
+.venv/
+venv/
+ENV/
+env/
+dist/
+build/
+*.egg-info/
+
+# Streamlit
+.streamlit/config.toml
+.streamlit/secrets.toml
+
+# Environment Variables & Secrets
+.env
+.env.*
+!.env.example
+
+# Databases
+*.db
+*.sqlite3
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
