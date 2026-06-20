@@ -4,7 +4,7 @@ VitalCheck AI is an intelligent medical lab report analyzer and dashboard. It al
 
 ---
 
-🔗 https://vitalcheck-ai-f7n4fglecpl9kml3g6hw6f.streamlit.app/
+🔗 Live Link: https://vitalcheck-ai-f7n4fglecpl9kml3g6hw6f.streamlit.app/
 
 
 ## 🚀 Features
